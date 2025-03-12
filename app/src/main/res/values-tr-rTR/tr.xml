@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LocalisationWIthCompose TR</string>
+    <string name="hello_world">Merhaba Dünya!</string>
+    <string name="settings">Ayarlar</string>
+    <string name="back">Geri</string>
+    <string name="selected_language">Seçilen Dil</string>
+    <string name="select_language">Dil Seç</string>
+
+</resources>

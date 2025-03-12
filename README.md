@@ -1,2 +1,3 @@
 # My-Compose-Localisation-Runtime-Changer
-Cihazdan bagimsiz olarak, cihazin diline bakilmaksizin, runtime app in dilini degistirir.
+
+Cihain güncel diline bakilmaksizin, runtime olarak app in dilini degistirir.
